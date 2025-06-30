@@ -37,3 +37,7 @@ $ uv sync
 Resolved 2 packages in 0.70ms
 Audited 1 package in 0.02ms
 ```
+
+### para rodar o nosso código, executar no terminal
+
+`uvicorn main:app --reload`
